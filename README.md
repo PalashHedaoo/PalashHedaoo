@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PalashHedaoo
-- I'm a student of BSC zoology
+- 📚 I'm a student of BSC zoology
 - 👀 I’m interested in coding and biology
 - 🌱 I’m currently learning HTML5, CSS and JAVAScript
 - 💞️ I’m looking to collaborate on ...
